@@ -1,0 +1,111 @@
+﻿Codigo,Descripcion,Valor,Responsable
+M0004,Colocar propaganda no autorizada por TRANSMILENIO S.A. en los autobuses o no retirar la misma cuando haya vencido su término de pauta.,10,Abastecimiento
+M0007-01,"Manipular, tener a la mano o usar equipos electrónicos (celulares, dispositivos de audio, manos libres, audífonos, etc.) mientras está en sus labores de conducción, y/o colocar música a través del celular, tabletas, altavoces, u otros dispositivos portátiles.",10,Operaciones
+M0008,Operar con luces interiores apagadas durante el periodo nocturno.,10,Operaciones
+M0021,No cumplir con los lineamientos  establecidos tanto en el manual de Operaciones como en el plan de capacitación y demás documentos de referencia adoptados por el Ente Gestor.,10,Todos
+M1001,Estacionar vehículos en las estaciones y/o paraderos en cantidad superior a la permitida.,10,Operaciones
+M1002,No parar en una estación.,10,Operaciones
+M1003,Parar en una estación y/o paradero no establecida en el itinerario de operación programada de un servicio sin la previa autorización o instrucción de TRANSMILENIO S.A.,10,Operaciones
+M1004,Estacionar fuera de los lugares establecidos por TRANSMILENIO S.A..,10,Operaciones
+M1005,Alterar el recorrido de un servicio sin la previa autorización o instrucción de TRANSMILENIO S.A..,10,Operaciones
+M1005-01,Retrasar la operación,10,Operaciones
+M1005-03,Adelantar vehículos del mismo servicio (sin la autorización del Centro de Control respectivo aun siendo informado y este persista),10,Operaciones
+M1009,Recoger o dejar pasajeros en puntos de la vía diferentes a los paraderos establecidos en cada uno de los servicios.,10,Operaciones
+M1010,Abandono del vehículo por parte del conductor sin razón justificada,10,Operaciones
+M1011,Interrumpir los cruces semafóricos por saturación de la estación y/o paradero.,10,Operaciones
+M2004-01,Deficiente presentación personal,10,Operaciones
+M3005-03,Tener mala aproximación a la plataformas o deficiente alineación de puertas bus-estación,10,Operaciones
+M3005-05,Dar reversa dentro de un Portal sin autorización previa,10,Operaciones
+M3005-06,Invasión de la cebra.,10,Operaciones
+M4004,Fumar y/o comer en el interior del vehículo (con referencia al conductor),10,Operaciones
+M4006,No aplicar manejo preventivo,10,Operaciones
+M1016,No seguir o desconocer las normas de tránsito y/o señalización del código nacional de tránsito CNT,15,Operaciones
+M1017,"Hacer transbordo de pasajeros de un móvil a otro en la misma ruta sin previa autorización del Centro de Control, o hacerlo con autorización sin cumplir el Atento.",15,Operaciones
+M2003,Utilizar un conductor que no esté portando su certificación de entrenamiento expedido por la empresa operadora,15,Operaciones
+M2003-01,"No portar documentación personal y/o del vehículo, sin botiquín",15,Operaciones
+M2004,No usar el uniforme por parte del conductor,15,Operaciones
+M2005,Omitir el cumplimiento de las obligaciones relacionadas con la capacitación de los conductores,15,Operaciones
+M3005-04,Transitar con exceso de velocidad,15,Operaciones
+M3005-07,Llevar acompañantes,15,Operaciones
+M4005,"Cobrar tarifa a los pasajeros, en el interior de los vehículos en el sistema troncal.",15,Operaciones
+M4007,"Defectos técnicos tipo B en la flota troncal, según la tabla de tipos de defectos del Manual de Operaciones y sus Apéndices",15,Todos
+M0020,"Violentar, alterar y/o conectar dispositivos electrónicos a cualquiera de los componentes del equipamiento SIRCI,",30,Operaciones
+M0022,Movilizar un bus que haya sido inmovilizado por mantenimiento sin autorización de TM,30,Operaciones
+M1006,Portar armas de cualquier naturaleza (con referencia al conductor),30,Operaciones
+M1007,Operar en horarios o servicios que no le hayan sido autorizados por TRANSMILENIO S.A. al CONCESIONARIO.,30,Operaciones
+M1008,"Transitar por fuera de las Vías, rutas o troncales determinadas por TRANSMILENIO S.A. sin su autorización.",30,Operaciones
+M1012,Desacato a la autoridad,30,Operaciones
+M1013,Presentarse en estado de embriaguez,30,Operaciones
+M1015,No seguir o desconocer las instrucciones dadas por el Centro de Control o por el personal de operaciones,30,Operaciones
+M1018,Suplantar identidad u operar con un código diferente al asignado por el Ente Gestor,30,Operaciones
+M2001-01,Negarse a dar información ( con respecto a conductores (as) y personal de la operaciones),30,Operaciones
+M2009,Mantener activo un conductor cuya remoción haya sido solicitada por TRANSMILENIO S.A.,30,Operaciones
+M3001,Transitar derramando combustible o lubricantes,30,Mantenimiento
+M3005,"No cumplir con la realización del Plan Inicial o no cumplir con los índices de operación, hábitos de conducción recomendados y metodología de trabajo.",30,Operaciones
+M3005-02,Pasar el semáforo en rojo (Al 2do caso el conductor sale del Sistema Transmilenio),30,Operaciones
+M3007-01,Sin combustible,30,Operaciones
+M4001,"Conducir peligrosamente o bruscamente el vehiculo con relación al frenado y al arranque poniendo en riesgo la seguridad de los pasajeros,",30,Operaciones
+M4003,"Maltrato físico por parte de un operador hacia los usuarios, funcionarios del Sistema (incluyendo personal designado por el Ente Gestor para realizar actividades de supervisión), o cualquier actor de la vía.",30,Operaciones
+M4008,"Rehusar el transporte a pasajeros sin motivo determinado en la legislación o sin causa justificada, no facilitar el ingreso por las puertas de servicio 2 y/o  o en su defecto puerta para usuarios vulnerables o en situación de discapacidad.",30,Operaciones
+I5001,"Instalar cualquier tipo de aditamentos decorativos o equipamiento no funcionales al interior o exterior del vehículo, que no han sido instalados por el fabricante original del chasis o carrocería",10,Abastecimiento
+I5003-1,"Carencia de elementos, elementos sueltos, elementos rotos, elementos deteriorados o elementos en mal funcionamiento con respecto a la carrocería externa y/o interna y/o chasís y/o motor, que conllevan al deterioro grave de la imagen del SITP o deficiente operación del vehículo.",30,Mantenimiento
+I5003-2,"Rayones, abolladuras, carencia de elementos, elementos rotos, elementos sueltos con respecto a la carrocería externa y/o interna y/o chasís y/o motor, que conlleven deterioro leve de la imagen del SITP.",10,Mantenimiento
+I5003-3,"Testigos encendidos que indiquen la detención inmediata del vehículo (de color rojo o de alerta de parada); carencia o mal funcionamiento del manómetro y de su alarma; habitáculo de fusibles suelto, desprotegido o con alteraciones.",30,Mantenimiento
+I5003-4,Testigos encendidos con alarma de advertencia de color amarillo o naranja y/o elementos del tablero de instrumentos o del millaré sueltos o en mal estado de funcionamiento.,10,Mantenimiento
+I5006,"Vehículo desaseado en su exterior o interior al inicio de la jornada, y/o con presencia de plagas en su interior.",10,Abastecimiento
+I5007,"Carencia, deterioro, obsolescencia o modificación de lo establecido por el Ente Gestor o de lo definido en el Manual de Normas Graficas en cuanto a colores y diseños de pintura, logos, símbolos, identificaciones, señalética de emergencia e informativa al interior o exterior de los vehículos.",10,Abastecimiento
+I5005,"Carencia, defectos o errores de instalación, iluminación, disposición, programación, configuración de ruta, visibilidad o legibilidad de los ruteros frontales, laterales y/o posteriores; y/o informadores internos (visual y sonoro). Incluye ruteros electrónicos y tabla ruta tradicional de iluminación o incorrecta disposición en términos de visibilidad de los ruteros frontal, lateral o posterior",10,Operaciones
+I5008,Colocar propaganda o información no autorizada por TRANSMILENIO S.A. en los autobuses o portar en mal estado la autorizada.,10,Abastecimiento
+I5012-1,"Carencia o mal funcionamiento de luces frontales, direccionales, o posteriores.",15,Mantenimiento
+I5012-2,"Operar con carencia o mal funcionamiento de luces internas, delimitadoras o de placa.",10,Mantenimiento
+I5013,"Carencia o daño en silla del operador (superficie, estructura, ajuste y/o anclaje); u operar con carencia o mal funcionamiento de los cinturones de seguridad de la silla del operador, sillas de uso exclusivo/preferencial, sillas que por diseño del vehículo lo requieran y/o del espacio para la silla de ruedas.",30,Mantenimiento
+I5013-1,Presencia de grafitis y/o manchas en el interior o en el exterior del vehículo,10,Abastecimiento
+I5014,"Sección de pasamanos desprendido, sin recubrimiento, flojo o con aristas vivas o corto punzantes; u operar con vidrios panorámicos y/o de ventanas frontales, laterales o posteriores, fisurados, rotos, fragmentados y/o desprendidos.",30,Mantenimiento
+I5016,"Carencia de extintores especificados, o extintores con falta de carga o sobrecarga en los mismos, o con falta de elementos requeridos para su utilización y/o fecha vencimiento cumplida; y/o carencia, deterioro o mal funcionamiento de martillos de fragmentación y/o de los mecanismos de expulsión de escotillas o ventanas de emergencia.",30,Operaciones
+I5017,"Inadecuado funcionamiento de las puertas de acceso de pasajeros, puertas de acceso del operador, puertas y/o escotillas de emergencia, señales luminosas y sonoras de apertura y cierre de puertas; ya sea por daño incorrecta operación que afecte el embarque y desembarque, seguro, de pasajeros.",30,Mantenimiento
+I5018,"Utilización de llantas sin las especificaciones de mínimo labrado establecidas por el fabricante o proveedor, y/o defectos en el reencauche (llanta lisa, banda de rodadura suelta y/o daños en la estructura).",30,Mantenimiento
+I5019,"Violentar, alterar y/o conectar dispositivos electrónicos a cualquiera de los componentes del equipamiento SIRCI,",30,Operaciones
+I5022,"Transitar derramando combustible, lubricantes o fluidos asociados al funcionamiento del vehículo.",30,Mantenimiento
+I5023,Operar con carencia o mal funcionamiento del sistema desempañante; y/o carencia o mal funcionamiento de cualquiera de los componentes del limpia parabrisas.,30,Mantenimiento
+I5023-3,No cumplir con los lineamientos establecidos en los demás manuales y documentos de referencia adoptados por el Ente Gestor.,10,Operaciones
+I5025,Tiempo de atención en vía (cuando se supera el tiempo máximo definido para retirar el vehículo del sitio en el que presenta el problema),15,Mantenimiento
+I5027,No portar o inadecuado funcionamiento del equipo de abordo (SIRCI) para control exigido por TRANSMILENIO S.A.,15,Mantenimiento
+I5028,No portar el kit de contingencias del vehículo o botiquín de primeros auxilios del vehículo o portar cualquiera de los dos incompleto.,30,Operaciones
+I5029,Presentar en una prueba con equipos avalados emisiones gaseosas o de ruido por encima de los parámetros establecidos en la normatividad ambiental vigente.,30,QHSE
+I6003-1,"No cumplir con las paradas establecidas en el itinerario de operación (no parar a pesar de haber sido solicitado por un usuario o recoger y/o dejar usuarios en estaciones, paraderos o en lugares no autorizados.",15,Operaciones
+I6005,Estacionar fuera de los lugares establecidos por TRANSMILENIO S.A.,15,Operaciones
+I6008,"Transitar por el carril exclusivo sin autorización de TRANSMILENIO S.A., y/o transitar por fuera de las vías, rutas o troncales establecidas.",15,Operaciones
+I6009,Operar en horarios o servicios que no le hayan sido autorizados por TRANSMILENIO S.A. al Concesionario.,30,Operaciones
+I6011,Alterar el recorrido de un servicio sin la previa autorización o instrucción de TRANSMILENIO S.A.,15,Operaciones
+I6012,"Manipular, tener a la mano o usar equipos electrónicos (celulares, dispositivos de audio, manos libres, audífonos, etc.) mientras está en sus labores de conducción, y/o colocar música a través del celular, tabletas, altavoces, u otros dispositivos portátiles.",10,Operaciones
+I6015,"Exhibir, intimidar y/o amenazar (con referencia al operador)",30,Operaciones
+I6016,Abandono del vehículo por parte del operador sin razón justificada (15 minutos o más).,10,Operaciones
+I6016-1,Abandono del vehículo por parte del concesionario sin razón justificada (30 minutos o más).,15,Operaciones
+I6017-1,"No cumplir instrucciones operativas de los técnicos de centros de control zonal, personal de TRANSMILENIO y/o personas a cargo de la operación designadas por el Ente Gestor (aplica para operadores).",30,Operaciones
+I6017-2,No cumplir instrucciones del personal de TRANSMILENIO y/o personas a cargo de la supervisión de la operación designadas por el Ente Gestor (aplica para todo el personal de control de la operación *diferente a operadores*),30,Operaciones
+I6019,"No seguir o desconocer las instrucciones dadas por la autoridad policial, o desconocer las normas de tránsito y/o señalización del Código Nacional de Tránsito CNT o normas y/o estándares aplicables.",15,Operaciones
+I6019-1,No portar el cinturón de seguridad o usuario inadecuadamente.,15,Operaciones
+I6019-2,Omitir o realizar de forma indebida el PARE,15,Operaciones
+I6020-1,"Omitir, negarse y/o brindar información operacional parcial o equivocada a los Técnicos o Supervisores de TRANSMILENIO o personal a cargo de la operación, (aplica para operadores)",30,Operaciones
+I6020-2,"Omitir, negarse y/o brindar información operacional parcial o equivocada a los Técnicos o Supervisores de TRANSMILENIO o personal a cargo de la operación, (aplica para todo el personal que interfiera en la operación diferente a operadores)",30,Operaciones
+I6024,Pasar el semáforo en rojo.,30,Operaciones
+I6025,Incorrecta aproximación a las plataformas y/o paraderos asignados a la ruta o servicio.,10,Operaciones
+I6026,Transitar con exceso de velocidad.,15,Operaciones
+I6029,Conducir peligrosamente o bruscamente el vehículo poniendo en peligro a las personas o cosas (incluye las relacionadas con el arranque y frenado).,15,Operaciones
+I6032,Dar reversa en las vías dentro de las cuales se realiza la prestación del servicio sin previa autorización de TRANSMILENO S.A. (Aplica igualmente a los zonales y alimentadores que operen dentro de una estación o portal del Sistema).,10,Operaciones
+I6033,"Hacer transbordo de pasajeros de un móvil a otro en la misma ruta sin previa autorización del Centro de Control, o hacerlo con autorización sin cumplir los lineamientos definidos para tal fin.",15,Operaciones
+I6034,Operar con un código diferente al asignado por el Ente Gestor,30,Operaciones
+I6035,"Manejo peligroso con otro vehículo del Sistema o los demás actores de la vía, y que constituya una conducta deliberada o altamente imprudente.",15,Operaciones
+I7002,"Oponerse a recibir en sus instalaciones personal de fiscalización de TRANSMILENIO S.A., o quien este designe, ocultarle información o suministrar información parcial o equivocada o no cumplir con instrucciones de manera inmediata.",10,Todos
+I8001,Facilitar el ingreso de personas para realizar cualquier tipo de actividad lucrativa dentro del vehículo.,10,Operaciones
+I8002,Presentar conductas que afecten gravemente la imagen o el sistema durante la operación.,30,Operaciones
+I8003,"Maltrato físico por parte de un operador hacia los usuarios, funcionarios del Sistema (incluyendo personal designado por el Ente Gestor para realizar actividades de supervisión), o cualquier actor de la vía.",30,Operaciones
+I8006,"Rehusar el transporte a pasajeros sin motivo determinado en la legislación o sin causa justificada, no facilitar el ingreso por las puertas de servicio 2 y/o en su defecto puerta para usuarios vulnerables o en situación de discapacidad.",30,Operaciones
+I8007,Autorregular los tiempos de un servicio sin autorización del Centro de Control y/o circular en tránsito o no prestar el servicio sin causa justificada.,30,Operaciones
+I8013,"Presentarse en estado de embriaguez (alcohólica o no alcohólica) a prestar servicio, durante el mismo, o negarse a realizar la prueba solicitada por representantes de TMSA.",30,Operaciones
+I8014,Cobrar tarifa a los pasajeros en el interior de los vehículos o en las zonas de des-alimentación del Sistema (aplica a operadores),30,Operaciones
+I8014-1,Cobrar tarifa a los pasajeros en el interior de los vehículos o en las zonas de des-alimentación del Sistema (aplica a supervisores y personal que interfiere en la operación diferente a operadores).,30,Operaciones
+I8017,Inadecuado funcionamiento de la plataforma de discapacitados o carencia de dispositivos de mando de la misma.,15,Operaciones
+I8019,Inadecuado funcionamiento del sistema de control de flota por causas atribuibles al Concesionario. (Errores en programación),10,Operaciones
+I8022,Movilizar en operación sin autorización de TRANSMILENIO S.A. como Ente Gestor un vehículo que haya sido inmovilizado.,15,Operaciones
+I8024,No aplicar manejo preventivo.,10,Operaciones
